@@ -1,0 +1,10 @@
+C:\Users\ZELİHA ARDUÇLU\Source\Repos\bilgi yarişması\bin\Debug\bilgi yarişması.exe.config
+C:\Users\ZELİHA ARDUÇLU\Source\Repos\bilgi yarişması\bin\Debug\bilgi yarişması.exe
+C:\Users\ZELİHA ARDUÇLU\Source\Repos\bilgi yarişması\bin\Debug\bilgi yarişması.pdb
+C:\Users\ZELİHA ARDUÇLU\Source\Repos\bilgi yarişması\obj\Debug\bilgi yarişması.csprojAssemblyReference.cache
+C:\Users\ZELİHA ARDUÇLU\Source\Repos\bilgi yarişması\obj\Debug\bilgi_yarişması.Form1.resources
+C:\Users\ZELİHA ARDUÇLU\Source\Repos\bilgi yarişması\obj\Debug\bilgi_yarişması.Properties.Resources.resources
+C:\Users\ZELİHA ARDUÇLU\Source\Repos\bilgi yarişması\obj\Debug\bilgi yarişması.csproj.GenerateResource.cache
+C:\Users\ZELİHA ARDUÇLU\Source\Repos\bilgi yarişması\obj\Debug\bilgi yarişması.csproj.CoreCompileInputs.cache
+C:\Users\ZELİHA ARDUÇLU\Source\Repos\bilgi yarişması\obj\Debug\bilgi yarişması.exe
+C:\Users\ZELİHA ARDUÇLU\Source\Repos\bilgi yarişması\obj\Debug\bilgi yarişması.pdb
